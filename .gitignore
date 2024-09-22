@@ -1,0 +1,22 @@
+# Ignoriere Maven 'target' Build-Verzeichnisse
+target/
+
+# Maven Wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/modules.xml
+
+# Ignoriere sensitive Konfigurationsdateien
+application.properties
+application-*.properties
+application.yml
+application-*.yml
